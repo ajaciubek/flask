@@ -1,5 +1,6 @@
 # pylint: disable=C0114
 # pylint: disable=C0115
+# pylint: disable=C0116
 
 from calculator import Calculator
 

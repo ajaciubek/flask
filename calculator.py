@@ -1,5 +1,6 @@
 # pylint: disable=C0114
 # pylint: disable=C0115
+# pylint: disable=C0116
 
 class Calculator():
     def __init__(self, x: float, y: float):
