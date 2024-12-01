@@ -1,9 +1,5 @@
 from flask import Flask, request # pylint: disable=E0401
 
-"""
-App for calculator
-"""
-
 app = Flask(__name__)
 
 @app.route('/calculator')
