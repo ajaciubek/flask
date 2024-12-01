@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request # pylint: disable=E0401
 
 app = Flask(__name__)
 
